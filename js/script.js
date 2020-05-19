@@ -411,6 +411,10 @@ $(function () {
         });
 
 
+        //Pick Up
+        $(".delivernot").click(function () {
+    09;p/;=]-=
+        });
 
 
 });
