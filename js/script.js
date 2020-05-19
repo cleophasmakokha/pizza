@@ -417,4 +417,10 @@ $(function () {
         });
 
 
+            //Scrollify
+            $(function () {
+                $.scrollify.move('#sum-order');
+            });
+        });
+
 });
