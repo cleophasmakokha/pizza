@@ -10,5 +10,10 @@ $(function () {
         let number = $("#number").val();
         console.log(size);
 
+        //Function order
+        let order = (f, s, c, t, n, total) => {
+            return {f, s, c, t, n, total};
+        };
+
 
 });
