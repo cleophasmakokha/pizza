@@ -15,3 +15,10 @@ Extract the zip file
 `cd` project folder
 
 `launch` the index.html file
+
+## Technologies:
+* HTML5
+* CSS3
+* Bootstrap
+* Javascript
+* Jquery
