@@ -22,3 +22,13 @@ Extract the zip file
 * Bootstrap
 * Javascript
 * Jquery
+
+## BDD:
+| Inputs |  Description |
+| :---         |          ---: |
+| Pizza Flavour   | `eg chicken-tikka`|
+| Pizza size     | `eg medium`   |
+| Pizza crust    | `eg flatbread crust`   |
+| Pizza topping    | `eg Beef peperoni`  |
+| Number of pizzas   | `eg 6`   |
+| Delivery mode   | `eg No delivery`   |
