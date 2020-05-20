@@ -412,9 +412,9 @@ $(function () {
 
 
         //Pick Up
-        $(".delivernot").click(function () {
-    09;p/;=]-=
-        });
+      $(".delivernot").click(function () {
+
+      });
 
 
             //Scrollify
